@@ -1,2 +1,2 @@
 # practis1
-# practis1
+# kak stat programmistom
